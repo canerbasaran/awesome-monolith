@@ -6,6 +6,8 @@ Microservices aren't a silver bullet.
 I have been working with microservices since 2015. More harm than good if you're not Google.
 
 ### Blog
+- MicroservicePremium https://martinfowler.com/bliki/MicroservicePremium.html
+- MonolithFirst https://martinfowler.com/bliki/MonolithFirst.html
 - The Majestic Monolith https://m.signalvnoise.com/the-majestic-monolith/
 - The Majestic Monolith can become The Citadel https://m.signalvnoise.com/the-majestic-monolith-can-become-the-citadel/
 - Don’t Start With Microservices In Production – Monoliths Are Your Friend https://arnoldgalovics.com/microservices-in-production/
