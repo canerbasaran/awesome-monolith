@@ -9,6 +9,7 @@ I have been working with microservices since 2015. More harm than good if you're
 - MicroservicePremium https://martinfowler.com/bliki/MicroservicePremium.html
 - MonolithFirst https://martinfowler.com/bliki/MonolithFirst.html
 - The Majestic Monolith https://m.signalvnoise.com/the-majestic-monolith/
+- Monolith Or Microservices: Which Should You Start With? http://highscalability.com/blog/2018/1/16/monolith-or-microservices-which-should-you-start-with.html
 - The Majestic Monolith can become The Citadel https://m.signalvnoise.com/the-majestic-monolith-can-become-the-citadel/
 - Don’t Start With Microservices In Production – Monoliths Are Your Friend https://arnoldgalovics.com/microservices-in-production/
 - The Truth About Starting With Microservices https://arnoldgalovics.com/truth-about-microservices/
