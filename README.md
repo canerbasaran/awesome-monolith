@@ -16,9 +16,11 @@ I have been working with microservices since 2015. More harm than good if you're
 - Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal) https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/
 - The Eight Fallacies of Distributed Computing https://nighthacks.com/jag/res/Fallacies.html
 
-
 ### Video
 - START with a Monolith, NOT Microservices https://www.youtube.com/watch?v=Z_pj1mUDKdw
+
+### Podcast
+- Engineering Stack Overflow with Roberta Arcoverde https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde
 
 ### Comic
 - Microservices (Krazam) https://www.youtube.com/watch?v=y8OnoxKotPQ
