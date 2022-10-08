@@ -24,3 +24,9 @@ I have been working with microservices since 2015. More harm than good if you're
 
 ### Comic
 - Microservices (Krazam) https://www.youtube.com/watch?v=y8OnoxKotPQ
+
+### Post-mortem
+- I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill https://news.ycombinator.com/item?id=31907374
+
+### Quot
+- "We don't need X, we're not Google." https://twitter.com/_amanda_walker/status/1542641270677438469
