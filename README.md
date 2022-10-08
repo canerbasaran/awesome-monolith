@@ -25,11 +25,13 @@ I have been working with microservices since 2015. More harm than good if you're
 ### Comic
 - Microservices (Krazam) https://www.youtube.com/watch?v=y8OnoxKotPQ
 
+### Quot
+- "We don't need X, we're not Google." https://twitter.com/_amanda_walker/status/1542641270677438469
+- Engineer works in a monolith or microservices https://twitter.com/hkarthik/status/1535061085992067072
+
+
+## OTHERS
 ### Cloud
 - I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill https://news.ycombinator.com/item?id=31907374
 - "55% of our CPU time was spent in Istio/Envoy" https://twitter.com/fredbrancz/status/1534853609774530560
 - Increase prices ~5-10x https://twitter.com/gergelyorosz/status/1520945349476634624
-
-### Quot
-- "We don't need X, we're not Google." https://twitter.com/_amanda_walker/status/1542641270677438469
-- Engineer works in a monolith or microservices https://twitter.com/hkarthik/status/1535061085992067072
