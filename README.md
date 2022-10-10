@@ -17,6 +17,7 @@ I have been working with microservices since 2015. More harm than good if you're
 - The Eight Fallacies of Distributed Computing https://nighthacks.com/jag/res/Fallacies.html
 - Why our team cancelled our move to microservices https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952
 - Moduliths: because we need to scale, but we also cannot afford microservices https://blog.kronis.dev/articles/modulith-because-we-need-to-scale-but-we-also-cannot-afford-micro-services
+- One Team At Uber Is Moving From Microservices To Macroservices http://highscalability.com/blog/2020/4/8/one-team-at-uber-is-moving-from-microservices-to-macroservic.html
 
 ### Video
 - START with a Monolith, NOT Microservices https://www.youtube.com/watch?v=Z_pj1mUDKdw
