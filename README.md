@@ -20,6 +20,7 @@ I have been working with microservices since 2015. More harm than good if you're
 - One Team At Uber Is Moving From Microservices To Macroservices http://highscalability.com/blog/2020/4/8/one-team-at-uber-is-moving-from-microservices-to-macroservic.html
 - Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
 - Under Deconstruction: The State of Shopify’s Monolith https://shopify.engineering/shopify-monolith
+- Some benefits of simple software architectures https://www.wave.com/en/blog/simple-architecture
 
 ### Video
 - START with a Monolith, NOT Microservices https://www.youtube.com/watch?v=Z_pj1mUDKdw
