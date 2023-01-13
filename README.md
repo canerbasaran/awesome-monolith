@@ -22,6 +22,9 @@ I have been working with microservices since 2015. More harm than good if you're
 - Under Deconstruction: The State of Shopify’s Monolith https://shopify.engineering/shopify-monolith
 - Some benefits of simple software architectures https://www.wave.com/en/blog/simple-architecture
 
+### Stack
+- StackExchange https://stackexchange.com/performance
+
 ### Video
 - START with a Monolith, NOT Microservices https://www.youtube.com/watch?v=Z_pj1mUDKdw
 
