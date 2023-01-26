@@ -5,7 +5,7 @@ A curated list of awesome Monolith Architecture articles and resources
 
 If you don't have enough **time**  
 If you don't have enough **resources**  
-If you don't know the **details of the job**  
+If you don't know **details of the job**  
 Start with a **monolith**  
 Microservices aren't a silver bullet. More harm than good  
 
