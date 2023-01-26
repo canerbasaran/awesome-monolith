@@ -27,6 +27,7 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 - Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
 - Under Deconstruction: The State of Shopify’s Monolith https://shopify.engineering/shopify-monolith
 - Some benefits of simple software architectures https://www.wave.com/en/blog/simple-architecture
+- The Recipe for the World's Largest Rails Monolith https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith
 
 ### Stack
 - StackExchange https://stackexchange.com/performance
