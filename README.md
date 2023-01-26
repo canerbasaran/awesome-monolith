@@ -28,12 +28,16 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 - Under Deconstruction: The State of Shopify’s Monolith https://shopify.engineering/shopify-monolith
 - Some benefits of simple software architectures https://www.wave.com/en/blog/simple-architecture
 - The Recipe for the World's Largest Rails Monolith https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith
+- Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity https://www.shopify.com/partners/blog/monolith-software
+- Modular Monolith Or Microservices https://mozaicworks.com/blog/modular-monolith-microservices
+- Goodbye Microservices: From 100s of problem children to 1 superstar https://segment.com/blog/goodbye-microservices/
 
 ### Stack
 - StackExchange https://stackexchange.com/performance
 
 ### Video
 - START with a Monolith, NOT Microservices https://www.youtube.com/watch?v=Z_pj1mUDKdw
+- Modular Monoliths Simon Brown https://www.youtube.com/watch?v=5OjqD-ow8GE
 
 ### Podcast
 - Engineering Stack Overflow with Roberta Arcoverde https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde
