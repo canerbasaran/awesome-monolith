@@ -1,9 +1,14 @@
-## 
-No more bullshit!  
-Start with a monolith.  
-Microservices aren't a silver bullet.  
+# Awesome Monolith Architecture
 
-I have been working with microservices since 2015. More harm than good if you're not Google.
+A curated list of awesome Monolith Architecture articles and resources
+
+If you don't have enough **time**  
+If you don't have enough **resources**  
+If you don't know the **details of the job**  
+Start with a **monolith**  
+Microservices aren't a silver bullet. More harm than good  
+
+You can start with a **microlith** (modular monolith) and then move on to microservice if needed.  
 
 ### Blog
 - MicroservicePremium https://martinfowler.com/bliki/MicroservicePremium.html
