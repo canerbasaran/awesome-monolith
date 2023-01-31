@@ -58,7 +58,7 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 - Microservices (Krazam) https://www.youtube.com/watch?v=y8OnoxKotPQ
 
 ### Quot
-- "We don't need X, we're not Google." https://twitter.com/_amanda_walker/status/1542641270677438469
+- "We don not need X, we are not Google." https://twitter.com/_amanda_walker/status/1542641270677438469
 - Engineer works in a monolith or microservices https://twitter.com/hkarthik/status/1535061085992067072
-- "Every startup I advise I tell them don't do microservices at the start" https://news.ycombinator.com/item?id=30759925
+- "Every startup I advise I tell them don not do microservices at the start" https://news.ycombinator.com/item?id=30759925
 - $B+ companies using monolith architecture https://twitter.com/danluu/status/1498678300163588096
