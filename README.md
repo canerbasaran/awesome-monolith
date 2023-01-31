@@ -2,6 +2,19 @@
 
 A curated list of awesome Monolith Architecture articles and resources
 
+## Contents
+
+- [Intro](#intro)
+- [Blog](#blog)
+- [Stack](#stack)
+- [Video](#video)
+- [Podcast](#podcast)
+- [Comic](#comic)
+- [Quot](#quot)
+
+
+
+### Intro
 If you don't have enough **time**,  
 If you don't have enough **resources**,  
 If you don't know **details of the job**,  
@@ -16,7 +29,7 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 - The Majestic Monolith https://m.signalvnoise.com/the-majestic-monolith/
 - Monolith Or Microservices: Which Should You Start With? http://highscalability.com/blog/2018/1/16/monolith-or-microservices-which-should-you-start-with.html
 - The Majestic Monolith can become The Citadel https://m.signalvnoise.com/the-majestic-monolith-can-become-the-citadel/
-- Don't Start With Microservices In Production – Monoliths Are Your Friend https://arnoldgalovics.com/microservices-in-production/
+- Do not Start With Microservices In Production – Monoliths Are Your Friend https://arnoldgalovics.com/microservices-in-production/
 - The Truth About Starting With Microservices https://arnoldgalovics.com/truth-about-microservices/
 - Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal) https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/
 - The Eight Fallacies of Distributed Computing https://nighthacks.com/jag/res/Fallacies.html (by explaining https://ably.com/blog/8-fallacies-of-distributed-computing)
@@ -24,9 +37,9 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 - Moduliths: because we need to scale, but we also cannot afford microservices https://blog.kronis.dev/articles/modulith-because-we-need-to-scale-but-we-also-cannot-afford-micro-services
 - One Team At Uber Is Moving From Microservices To Macroservices http://highscalability.com/blog/2020/4/8/one-team-at-uber-is-moving-from-microservices-to-macroservic.html
 - Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
-- Under Deconstruction: The State of Shopify's Monolith https://shopify.engineering/shopify-monolith
+- Under Deconstruction: The State of Shopify s Monolith https://shopify.engineering/shopify-monolith
 - Some benefits of simple software architectures https://www.wave.com/en/blog/simple-architecture
-- The Recipe for the World's Largest Rails Monolith https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith
+- The Recipe for the World s Largest Rails Monolith https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith
 - Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity https://www.shopify.com/partners/blog/monolith-software
 - Modular Monolith Or Microservices https://mozaicworks.com/blog/modular-monolith-microservices
 - Goodbye Microservices: From 100s of problem children to 1 superstar https://segment.com/blog/goodbye-microservices/
