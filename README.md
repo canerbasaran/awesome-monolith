@@ -10,7 +10,7 @@ A curated list of awesome Monolith Architecture articles and resources
 - [Video](#video)
 - [Podcast](#podcast)
 - [Comic](#comic)
-- [Quot](#quot)
+- [Quotes](#quotes)
 
 
 
@@ -57,7 +57,7 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 ### Comic
 - Microservices (Krazam) https://www.youtube.com/watch?v=y8OnoxKotPQ
 
-### Quot
+### Quotes
 - "We don not need X, we are not Google." https://twitter.com/_amanda_walker/status/1542641270677438469
 - Engineer works in a monolith or microservices https://twitter.com/hkarthik/status/1535061085992067072
 - "Every startup I advise I tell them don not do microservices at the start" https://news.ycombinator.com/item?id=30759925
