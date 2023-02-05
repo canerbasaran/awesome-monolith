@@ -5,11 +5,11 @@ A curated list of awesome Monolith Architecture articles and resources
 ## Contents
 
 - [Intro](#intro)
-- [Blog](#blog)
+- [Blogs](#blogs)
 - [Stack](#stack)
-- [Video](#video)
+- [Videos](#videos)
 - [Podcast](#podcast)
-- [Comic](#comic)
+- [Entertainment](#entertainment)
 - [Quotes](#quotes)
 
 
@@ -23,7 +23,7 @@ Microservices aren't a silver bullet. More harm than good.
 
 You can start with a **microlith** (modular monolith) and then move on to microservice if needed.  
 
-## Blog
+## Blogs
 - MicroservicePremium - https://martinfowler.com/bliki/MicroservicePremium.html
 - MonolithFirst - https://martinfowler.com/bliki/MonolithFirst.html
 - The Majestic Monolith - https://m.signalvnoise.com/the-majestic-monolith/
@@ -47,14 +47,14 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 ## Stack
 - StackExchange - https://stackexchange.com/performance
 
-## Video
+## Videos
 - START with a Monolith, NOT Microservices - https://www.youtube.com/watch?v=Z_pj1mUDKdw
 - Modular Monoliths Simon Brown - https://www.youtube.com/watch?v=5OjqD-ow8GE
 
 ## Podcast
 - Engineering Stack Overflow with Roberta Arcoverde - https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde
 
-## Comic
+## Entertainment
 - Microservices (Krazam) - https://www.youtube.com/watch?v=y8OnoxKotPQ
 
 ## Quotes
