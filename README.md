@@ -14,7 +14,7 @@ A curated list of awesome Monolith Architecture articles and resources
 
 
 
-### Intro
+## Intro
 If you don't have enough **time**,  
 If you don't have enough **resources**,  
 If you don't know **details of the job**,  
@@ -23,7 +23,7 @@ Microservices aren't a silver bullet. More harm than good.
 
 You can start with a **microlith** (modular monolith) and then move on to microservice if needed.  
 
-### Blog
+## Blog
 - MicroservicePremium - https://martinfowler.com/bliki/MicroservicePremium.html
 - MonolithFirst - https://martinfowler.com/bliki/MonolithFirst.html
 - The Majestic Monolith - https://m.signalvnoise.com/the-majestic-monolith/
@@ -44,20 +44,20 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 - Modular Monolith Or Microservices - https://mozaicworks.com/blog/modular-monolith-microservices
 - Goodbye Microservices: From 100s of problem children to 1 superstar - https://segment.com/blog/goodbye-microservices/
 
-### Stack
+## Stack
 - StackExchange - https://stackexchange.com/performance
 
-### Video
+## Video
 - START with a Monolith, NOT Microservices - https://www.youtube.com/watch?v=Z_pj1mUDKdw
 - Modular Monoliths Simon Brown - https://www.youtube.com/watch?v=5OjqD-ow8GE
 
-### Podcast
+## Podcast
 - Engineering Stack Overflow with Roberta Arcoverde - https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde
 
-### Comic
+## Comic
 - Microservices (Krazam) - https://www.youtube.com/watch?v=y8OnoxKotPQ
 
-### Quotes
+## Quotes
 - "We don not need X, we are not Google." - https://twitter.com/_amanda_walker/status/1542641270677438469
 - Engineer works in a monolith or microservices - https://twitter.com/hkarthik/status/1535061085992067072
 - "Every startup I advise I tell them don not do microservices at the start" - https://news.ycombinator.com/item?id=30759925
