@@ -50,6 +50,7 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 ## Videos
 - START with a Monolith, NOT Microservices - https://www.youtube.com/watch?v=Z_pj1mUDKdw
 - Modular Monoliths Simon Brown - https://www.youtube.com/watch?v=5OjqD-ow8GE
+- Don’t Build a Distributed Monolith Jonathan Tower - https://www.youtube.com/watch?v=p2GlRToY5HI
 
 ## Podcast
 - Engineering Stack Overflow with Roberta Arcoverde - https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde
