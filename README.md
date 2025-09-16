@@ -44,6 +44,7 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 - Modular Monolith Or Microservices - https://mozaicworks.com/blog/modular-monolith-microservices
 - Goodbye Microservices: From 100s of problem children to 1 superstar - https://segment.com/blog/goodbye-microservices/
 - Why should you build a (modular) monolith first? - https://newsletter.techworld-with-milan.com/p/why-you-should-build-a-modular-monolith
+- Microservices Are a Tax Your Startup Probably Can’t Afford - https://nexo.sh/posts/microservices-for-startups/
 
 ## Stack
 - StackExchange - https://stackexchange.com/performance
