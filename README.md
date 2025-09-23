@@ -48,7 +48,7 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 - Microservices Are a Tax Your Startup Probably Can’t Afford - https://nexo.sh/posts/microservices-for-startups/
 
 ## Stack
-- StackExchange - https://stackexchange.com/performance
+- StackExchange - https://web.archive.org/web/20241231062652/https://stackexchange.com/performance
 
 ## Article
 - Towards Modern Development of Cloud Applications - https://dl.acm.org/doi/pdf/10.1145/3593856.3595909
