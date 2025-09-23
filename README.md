@@ -7,6 +7,7 @@ A curated list of awesome Monolith Architecture articles and resources
 - [Intro](#intro)
 - [Blogs](#blogs)
 - [Stack](#stack)
+- [Article](#article)
 - [Videos](#videos)
 - [Podcast](#podcast)
 - [Entertainment](#entertainment)
@@ -48,6 +49,9 @@ You can start with a **microlith** (modular monolith) and then move on to micros
 
 ## Stack
 - StackExchange - https://stackexchange.com/performance
+
+## Article
+- Towards Modern Development of Cloud Applications - https://dl.acm.org/doi/pdf/10.1145/3593856.3595909
 
 ## Videos
 - START with a Monolith, NOT Microservices - https://www.youtube.com/watch?v=Z_pj1mUDKdw
